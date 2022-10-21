@@ -1,5 +1,8 @@
 # SMU Bootcamp Module 3 - Password Generator
 
+### GitHub Repository link:  https://github.com/JohanBotes/jb-SMU03-PasswordGenerator/
+### Live website URL: https://johanbotes.github.io/jb-SMU03-PasswordGenerator/
+
 ## Task
 
 - This Challenge requires one to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. 

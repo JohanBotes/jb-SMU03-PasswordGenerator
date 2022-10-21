@@ -3,9 +3,11 @@
 ### GitHub Repository link:  https://github.com/JohanBotes/jb-SMU03-PasswordGenerator/
 ### Live website URL: https://johanbotes.github.io/jb-SMU03-PasswordGenerator/
 
+
 ## Additional voluntary functionality added
 
-- Copy to clipboard button and functionality once the password is generated (Refer image below)
+- Copy to clipboard button was added
+- Created with JavaSCript the functionality to copy the generated password to clipboard (Refer image below)
 
 ## Task
 

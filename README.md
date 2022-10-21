@@ -39,6 +39,6 @@
 
 The following image shows the web application's appearance and functionality:
 
-![The Password Generator application displays a red button to "Generate Password".](./Assets/03-javascript-homework-demo.png)
+![The Password Generator application displays a red button to "Generate Password".](https://github.com/JohanBotes/jb-SMU03-PasswordGenerator/blob/main/Password%20Generator.png)
 
 

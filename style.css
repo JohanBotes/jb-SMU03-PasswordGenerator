@@ -12,6 +12,23 @@ body,
   padding: 0;
 }
 
+.copy   {
+  height: 30px;
+}
+
+p   {
+  text-align: right;
+  margin: 10px;
+}
+
+img    {
+  height: 30px;
+  width: 25px;
+  display: inline-block;
+  line-height: 22px;
+  text-align: right;
+}
+
 body {
   font-family: sans-serif;
   background-color: #f9fbfd;

@@ -78,6 +78,9 @@ function generatePassword() {
     }
     
     return generatedPassword
+
+
+
 }
     
 
@@ -91,9 +94,24 @@ function writePassword() {
   let passwordText = document.querySelector("#password");
 
   passwordText.value = password;
+
+  console.log(password)
   
 }
 
 // Add event listener to generate button
 generateBtn.addEventListener("click", writePassword);
 
+// Add eventlistener to copy info to clipboard - Generated content??
+
+const copyBtn = document.getElementById("copyBtn");
+
+copyBtn.addEventListener("click", (event => {
+
+  const content = document.getElementById("password").value;
+  navigator.clipboard.writeText(content);
+
+}))
+
+
+  

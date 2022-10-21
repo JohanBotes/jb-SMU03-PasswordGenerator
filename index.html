@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>Password Generator</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
@@ -16,8 +17,11 @@
         <div class="card-header">
           <h2>Generate your Password</h2>
         </div>
+        <p>
+          <button id="copyBtn" style="font-size:13px">Copy to Clipboard  <i class="fa fa-clipboard"></i></button>
+        </p>
         <div class="card-body">
-          <textarea
+          <textarea class="textInput"
             readonly
             id="password"
             placeholder="Your Secure Password will display here"

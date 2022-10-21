@@ -39,7 +39,7 @@
 - WHEN all prompts are answered
 - THEN a password is generated that matches the selected criteria   ✅
 - WHEN the password is generated
-- THEN the password is either displayed in the webpage   ✅
+- THEN the password is isplayed in the webpage AND written to the Clipboard ... ✅
 
 ## Mock-Up
 

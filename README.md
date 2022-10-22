@@ -39,7 +39,8 @@
 - WHEN all prompts are answered
 - THEN a password is generated that matches the selected criteria   ✅
 - WHEN the password is generated
-- THEN the password is isplayed in the webpage AND written to the Clipboard ... ✅
+- THEN the password is displayed in the webpage AND written to the Clipboard ... ✅
+- THEN when the "Copy to Clipboard" button is clicked - the ganerated password is copied to the clipboard  ✅
 
 ## Image:
 

@@ -41,9 +41,7 @@
 - WHEN the password is generated
 - THEN the password is isplayed in the webpage AND written to the Clipboard ... ✅
 
-## Mock-Up
-
-The following image shows the web application's appearance and functionality:
+## Image:
 
 ![The Password Generator application displays a red button to "Generate Password".](https://github.com/JohanBotes/jb-SMU03-PasswordGenerator/blob/main/Password%20Generator.png)
 

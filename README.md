@@ -1,6 +1,5 @@
 # SMU Bootcamp Module 3 - Password Generator
 
-- GitHub Repository link:  https://github.com/JohanBotes/jb-SMU03-PasswordGenerator/
 - Live website URL: https://johanbotes.github.io/jb-SMU03-PasswordGenerator/
 
 

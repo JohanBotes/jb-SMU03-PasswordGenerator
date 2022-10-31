@@ -1,4 +1,4 @@
-# SMU Bootcamp Module 3 - Password Generator
+# 03 - Password Generator JavaScript
 
 - Live web URL: [Password Generator with Copy to Clipboard](https://johanbotes.github.io/jb-SMU03-PasswordGenerator/)
 

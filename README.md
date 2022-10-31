@@ -1,6 +1,6 @@
 # SMU Bootcamp Module 3 - Password Generator
 
-- Live website URL: https://johanbotes.github.io/jb-SMU03-PasswordGenerator/
+- Live web URL: [Password Generator with Copy to Clipboard](https://johanbotes.github.io/jb-SMU03-PasswordGenerator/)
 
 
 ## Voluntary Addition - Functionality to "Copy to Clipboard" added e.g. in case of long passwords.
